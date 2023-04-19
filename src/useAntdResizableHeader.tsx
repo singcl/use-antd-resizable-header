@@ -163,7 +163,7 @@ function useAntdResizableHeader<ColumnType extends ColumnOriginType<ColumnType>>
           }
         },
         width: cache ? widthCache.current?.get(col[GETKEY] ?? '')?.width || col?.width : col?.width,
-        ellipsis: typeof col.ellipsis !== 'undefined' ? col.ellipsis : true,
+        // ellipsis: typeof col.ellipsis !== 'undefined' ? col.ellipsis : true,
         [GETKEY]: col[GETKEY] || col.key,
       }
     }) as ColumnType[]

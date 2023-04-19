@@ -1,17 +1,17 @@
 {
-  "name": "@minko-fe/use-antd-resizable-header",
+  "name": "@singcl/use-antd-resizable-header",
   "type": "module",
   "version": "2.8.12",
   "description": "antd resizable header column hook",
-  "author": "hemengke1997",
+  "author": "singcl",
   "license": "MIT",
-  "homepage": "https://github.com/hemengke1997/use-antd-resizable-header",
+  "homepage": "https://github.com/singcl/use-antd-resizable-header",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hemengke1997/use-antd-resizable-header.git"
+    "url": "git+https://github.com/singcl/use-antd-resizable-header.git"
   },
   "bugs": {
-    "url": "https://github.com/hemengke1997/use-antd-resizable-header/issues"
+    "url": "https://github.com/singcl/use-antd-resizable-header/issues"
   },
   "keywords": [
     "react",
